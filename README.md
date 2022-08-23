@@ -1,7 +1,7 @@
 # Anilist to MAL
 Anilist to MAL is a simple python tool that lets you export your anime list from [AniList](https://anilist.co) to [MyAnimeList](https://myanimelist.net).
 
-This fork is maintained version of upstream, as the repo is being used for [nattadasu/animeManga-autoBackup](https://github.com/nattadasu/anime)
+This fork is maintained version of upstream, as the repo is being used for [nattadasu/animeManga-autoBackup](https://github.com/nattadasu/animeManga-autoBackup)
 
 ## Changes of this fork
 
